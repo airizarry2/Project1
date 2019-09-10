@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+ <html lang="en">
+	 <head>
+		
+		<meta charset="UTF-8">
+		<title> Professional Interests </title>
+		
+	</head>
+	
+	
+	<body>
+	
+	<h1> Professional Interests </h1>
+	
+	<h3> Internet Of Things</h3>
+	<li><strong>Smart Homes</strong></li>
+	<p>I am very interested in how connected devices can automate processess commonly done in the home. This has important implications as it can simplify the lives of many people including ones that may be disabled.</p>
+	<img src="https://github.com/airizarry2/Project1/blob/master/smart-home-3096219_960_720.jpg">
+	
+	
+	</body>
+	
+</html>
